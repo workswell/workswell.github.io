@@ -720,6 +720,7 @@
 				}
 
 		ul.icons {
+			margin-top: 2rem;
 			cursor: default;
 			list-style: none;
 			padding-left: 0;
